@@ -1,0 +1,28 @@
+[
+    {
+        "Name": "Kane Williamson ",
+        "Runs": "50",
+        "Balls": "44",
+        "Fours": "-",
+        "Sixes": "2",
+        "StrikeRate": "2",
+        "b": {
+            "Opponent": "Sunrisers Hyderabad",
+            "Venue": " Abu Dhabi",
+            "Date": " Nov 6 2020"
+        }
+    },
+    {
+        "Name": "Kane Williamson ",
+        "Runs": "8",
+        "Balls": "14",
+        "Fours": "-",
+        "Sixes": "0",
+        "StrikeRate": "0",
+        "b": {
+            "Opponent": "Sunrisers Hyderabad",
+            "Venue": " Sharjah",
+            "Date": " Oct 31 2020"
+        }
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "Name": "Ishan Kishan ",
+        "Runs": "33",
+        "Balls": "19",
+        "Fours": "-",
+        "Sixes": "3",
+        "StrikeRate": "1",
+        "b": {
+            "Opponent": "Mumbai Indians",
+            "Venue": " Dubai",
+            "Date": " Nov 10 2020"
+        }
+    },
+    {
+        "Name": "Ishan Kishan ",
+        "Runs": "72",
+        "Balls": "47",
+        "Fours": "-",
+        "Sixes": "8",
+        "StrikeRate": "3",
+        "b": {
+            "Opponent": "Mumbai Indians",
+            "Venue": " Dubai",
+            "Date": " Oct 31 2020"
+        }
+    }
+]

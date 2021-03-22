@@ -1,0 +1,28 @@
+[
+    {
+        "Name": "Quinton de Kock †",
+        "Runs": "20",
+        "Balls": "12",
+        "Fours": "-",
+        "Sixes": "3",
+        "StrikeRate": "1",
+        "b": {
+            "Opponent": "Mumbai Indians",
+            "Venue": " Dubai",
+            "Date": " Nov 10 2020"
+        }
+    },
+    {
+        "Name": "Quinton de Kock †",
+        "Runs": "26",
+        "Balls": "28",
+        "Fours": "-",
+        "Sixes": "2",
+        "StrikeRate": "0",
+        "b": {
+            "Opponent": "Mumbai Indians",
+            "Venue": " Dubai",
+            "Date": " Oct 31 2020"
+        }
+    }
+]

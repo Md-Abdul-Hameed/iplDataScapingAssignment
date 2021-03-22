@@ -1,0 +1,28 @@
+[
+    {
+        "Name": "David Warner (c)",
+        "Runs": "17",
+        "Balls": "17",
+        "Fours": "-",
+        "Sixes": "3",
+        "StrikeRate": "0",
+        "b": {
+            "Opponent": "Sunrisers Hyderabad",
+            "Venue": " Abu Dhabi",
+            "Date": " Nov 6 2020"
+        }
+    },
+    {
+        "Name": "David Warner (c)",
+        "Runs": "8",
+        "Balls": "5",
+        "Fours": "-",
+        "Sixes": "0",
+        "StrikeRate": "1",
+        "b": {
+            "Opponent": "Sunrisers Hyderabad",
+            "Venue": " Sharjah",
+            "Date": " Oct 31 2020"
+        }
+    }
+]
